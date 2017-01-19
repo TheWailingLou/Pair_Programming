@@ -1,0 +1,26 @@
+{
+  "name": "Pair_Programming",
+  "version": "1.0.0",
+  "description": "",
+  "main": "challenge.js",
+  "dependencies": {
+    "chai": "^3.5.0"
+  },
+  "devDependencies": {
+    "mocha": "^3.2.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheWailingLou/Pair_Programming.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TheWailingLou/Pair_Programming/issues"
+  },
+  "homepage": "https://github.com/TheWailingLou/Pair_Programming#readme"
+}
